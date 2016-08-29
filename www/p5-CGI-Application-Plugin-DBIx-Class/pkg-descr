@@ -1,0 +1,4 @@
+CGI::Application::Plugin::DBIx::Class
+Access a DBIx::Class schema from a CGI::Application
+
+WWW: http://search.cpan.org/dist/CGI-Application-Plugin-DBIx-Class/
