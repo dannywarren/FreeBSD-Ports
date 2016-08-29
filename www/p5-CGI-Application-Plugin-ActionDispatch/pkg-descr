@@ -1,0 +1,4 @@
+CGI::Application::Plugin::ActionDispatch
+Action dispatch attribute handling for CGI::Application
+
+WWW: http://search.cpan.org/dist/CGI-Application-Plugin-ActionDispatch/
